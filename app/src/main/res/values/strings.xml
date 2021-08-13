@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">XYZ Blood Bank</string>
+
+    <string-array name="Contact_name">
+        <item>XYZ Blood Bank</item>
+        <item>XYZ Blood Bank</item>
+        <item>XYZ Blood Bank</item>
+        <item>XYZ Blood Bank</item>
+        <item>XYZ Blood Bank</item>
+        <item>XYZ Blood Bank</item>
+        <item>XYZ Blood Bank</item>
+        <item>XYZ Blood Bank</item>
+        <item>XYZ Blood Bank</item>
+        <item>XYZ Blood Bank</item>
+    </string-array>
+
+    <string-array name="Numbers">
+        <item>Sai Baba Dham Nxt To Sweekar Hotel Sa Borivali, Mumbai,400092</item>
+        <item>Airport Service Road Western Express Higway Vile, Ahmedabad,400099</item>
+        <item>42/islamia Market Sakinakakhairani Rd Andheri, Mumbai,400072</item>
+        <item>26 /b Shyam Nivas  Rd Road Khar , Mumbai,Delhi,400052</item>
+        <item>S/1 Gurukrupa Apts Malad,Kolkata,400064</item>
+        <item>Shop-No 26 Venus Apts Shimpoli Rd Siddhivinayak Plaza,Bengaluru,400092</item>
+        <item>Vasan Udyog Bhuvan Sun Mill Compound Lane Lower Parel,Noida,400013</item>
+        <item>St Karpagam Avenue R A Puram,Mumbai,Panvel,600028</item>
+        <item>40  Ghanshyam Nagar Nr Rly Stn J A Rd Kandivli,Fyzabad,400067</item>
+        <item>Vijay Vihar Mangal Bazar Road Uttam Nagar, Bangalore,Ranchi,110059</item>
+    </string-array>
+
+</resources>
